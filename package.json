@@ -5,7 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky",
-    "check-ids": "node scripts/check-duplicate-ids.js"
+    "check-ids": "node scripts/check-duplicate-ids.js",
+    "check-logos": "node scripts/check-logo-urls.js"
   },
   "keywords": [],
   "author": "",

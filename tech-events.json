@@ -83,7 +83,7 @@
     "coordinates": { "lat": 24.7136, "lng": 46.6753 },
     "description": "One of the largest tech events in the Middle East, covering AI, digital transformation, fintech, and more.",
     "links": { "website": "https://onegiantleap.com/" },
-    "logoUrl": "https://onegiantleap.com/favicon.ico"
+    "logoUrl": "https://onegiantleap.com/themes/custom/sass_theme/Favicon.svg"
   },
   {
     "id": "google-cloud-next-2026",
@@ -95,7 +95,7 @@
     "coordinates": { "lat": 36.1699, "lng": -115.1398 },
     "description": "Google's flagship cloud event showcasing the latest in cloud computing, AI, data analytics, and developer tools.",
     "links": { "website": "https://cloud.google.com/next" },
-    "logoUrl": "https://cloud.google.com/favicon.ico"
+    "logoUrl": "https://www.gstatic.com/cgc/favicon.ico"
   },
   {
     "id": "apple-wwdc-2026",
@@ -119,7 +119,7 @@
     "coordinates": { "lat": 51.5074, "lng": -0.1278 },
     "description": "Leading AI event in Europe focused on enterprise AI adoption, ethics, governance, and real-world applications.",
     "links": { "website": "https://london.theaisummit.com/" },
-    "logoUrl": "https://london.theaisummit.com/favicon.ico"
+    "logoUrl": "https://knect365.imgix.net/uploads/favicon-ae2626e3448bd8e194f7b7c7638947e5.ico"
   },
   {
     "id": "databricks-data-ai-summit-2026",
@@ -131,7 +131,7 @@
     "coordinates": { "lat": 37.7749, "lng": -122.4194 },
     "description": "The premier event for data and AI practitioners, featuring Lakehouse architecture, generative AI, and analytics.",
     "links": { "website": "https://www.databricks.com/dataaisummit" },
-    "logoUrl": "https://www.databricks.com/favicon.ico"
+    "logoUrl": "https://www.databricks.com/dataaisummit/dais-favicon.png?v=2"
   },
   {
     "id": "black-hat-usa-2026",
@@ -239,7 +239,7 @@
     "coordinates": { "lat": 52.3676, "lng": 4.9041 },
     "description": "Technology conference dedicated to frontend and backend web development technologies and best practices.",
     "links": { "website": "https://webdevcon.nl" },
-    "logoUrl": "https://webdevcon.nl/favicon.ico"
+    "logoUrl": "https://webdevcon.nl/wp-content/uploads/2026/02/fav-60x60.png"
   },
   {
     "id": "vuejs-amsterdam-2026",
@@ -263,7 +263,7 @@
     "coordinates": { "lat": 52.3676, "lng": 4.9041 },
     "description": "New conference on practical and applied AI development, machine learning, ethics, and real-world implementations.",
     "links": { "website": "https://aiconference.nl" },
-    "logoUrl": "https://aiconference.nl/favicon.ico"
+    "logoUrl": "https://aiconference.nl/wp-content/uploads/2025/10/cropped-Favicon-512-1.png"
   },
   {
     "id": "spring-io-2026",
@@ -347,7 +347,7 @@
     "coordinates": { "lat": 54.6872, "lng": 25.2797 },
     "description": "Large European developer conference with tracks on programming languages, frameworks, and emerging tech.",
     "links": { "website": "https://devdays.lt" },
-    "logoUrl": "https://devdays.lt/favicon.ico"
+    "logoUrl": "https://devdays.lt/wp-content/uploads/2018/03/favicon-min.png"
   },
   {
     "id": "international-javascript-conference-london-2026",
@@ -395,7 +395,7 @@
     "coordinates": { "lat": 52.3676, "lng": 4.9041 },
     "description": "JavaScript-focused conference with sessions on modern JS, tools, frameworks, and community trends.",
     "links": { "website": "https://jsnation.com" },
-    "logoUrl": "https://jsnation.com/favicon.ico"
+    "logoUrl": "https://jsnation.com/img/favicon.ico"
   },
   {
     "id": "vivatech-2026",
@@ -431,7 +431,7 @@
     "coordinates": { "lat": 51.5074, "lng": -0.1278 },
     "description": "Enterprise-focused AI summit on adoption, governance, ethics, and practical AI implementations.",
     "links": { "website": "https://london.theaisummit.com/" },
-    "logoUrl": "https://london.theaisummit.com/favicon.ico"
+    "logoUrl": "https://knect365.imgix.net/uploads/favicon-ae2626e3448bd8e194f7b7c7638947e5.ico"
   },
   {
     "id": "humanx-amsterdam-2026",
@@ -505,19 +505,7 @@
     "coordinates": { "lat": 38.7223, "lng": -9.1393 },
     "description": "One of the world's largest tech conferences connecting startups, investors, developers, and innovators.",
     "links": { "website": "https://websummit.com/" },
-    "logoUrl": "https://websummit.com/favicon.ico"
-  },
-  {
-    "id": "fossasia-summit-2026",
-    "title": "FOSSASIA Summit 2026",
-    "type": "GENERAL",
-    "startDate": "2026-03-08T09:00:00Z",
-    "endDate": "2026-03-10T18:00:00Z",
-    "location": { "city": "Bangkok", "country": "Thailand" },
-    "coordinates": { "lat": 13.7563, "lng": 100.5018 },
-    "description": "Asia's premier open technology summit covering open source, AI, cloud, cybersecurity, DevOps, and community collaboration.",
-    "links": { "website": "https://summit.fossasia.org/" },
-    "logoUrl": "https://summit.fossasia.org/favicon.ico"
+    "logoUrl": "https://websummit.com/wp-media/2023/11/WS23-logo_icon-colour-1-e1698835294671-150x150.png"
   },
   {
     "id": "pyconf-hyderabad-2026",
@@ -529,7 +517,7 @@
     "coordinates": { "lat": 17.385, "lng": 78.4867 },
     "description": "Regional Python conference with talks, workshops, and keynotes on Python programming, data science, and ecosystem tools.",
     "links": { "website": "https://2026.pyconfhyd.org" },
-    "logoUrl": "https://2026.pyconfhyd.org/favicon.ico"
+    "logoUrl": "https://2026.pyconfhyd.org/images/favIcon.svg"
   },
   {
     "id": "aaiml-2026",
@@ -541,7 +529,7 @@
     "coordinates": { "lat": 35.6762, "lng": 139.6503 },
     "description": "International conference on advances in artificial intelligence, machine learning, deep learning, and applications.",
     "links": { "website": "https://www.aaiml.net/" },
-    "logoUrl": "https://www.aaiml.net/favicon.ico"
+    "logoUrl": "https://www.aaiml.net/style/images/logo/favico.png"
   },
   {
     "id": "wordcamp-asia-2026",
@@ -553,7 +541,7 @@
     "coordinates": { "lat": 19.076, "lng": 72.8777 },
     "description": "Flagship WordPress conference in Asia with talks, workshops, and networking on web development and open-source CMS.",
     "links": { "website": "https://asia.wordcamp.org/2026/" },
-    "logoUrl": "https://asia.wordcamp.org/2026/favicon.ico"
+    "logoUrl": "https://i0.wp.com/asia.wordcamp.org/2026/files/2025/09/cropped-WCA26-WhatsApp.jpg?fit=32%2C32&ssl=1"
   },
   {
     "id": "gitex-ai-asia-2026",
@@ -565,19 +553,7 @@
     "coordinates": { "lat": 1.3521, "lng": 103.8198 },
     "description": "Major AI and tech event in Asia focusing on artificial intelligence, startups, digital investments, and emerging technologies.",
     "links": { "website": "https://gitexasia.com/" },
-    "logoUrl": "https://gitexasia.com/favicon.ico"
-  },
-  {
-    "id": "ng-india-2026",
-    "title": "ng-India 2026",
-    "type": "WEB",
-    "startDate": "2026-04-11T09:00:00Z",
-    "endDate": "2026-04-11T18:00:00Z",
-    "location": { "city": "Gurgaon", "country": "India" },
-    "coordinates": { "lat": 28.4595, "lng": 77.0266 },
-    "description": "India's largest Angular conference with deep dives into modern web development, frameworks, and JavaScript ecosystem.",
-    "links": { "website": "https://ng-india.dev" },
-    "logoUrl": "https://ng-india.dev/favicon.ico"
+    "logoUrl": "https://gitexasia.com/contents/theme-2024/images/favicon-150x150.png"
   },
   {
     "id": "apidays-singapore-2026",
@@ -589,7 +565,7 @@
     "coordinates": { "lat": 1.3521, "lng": 103.8198 },
     "description": "Global API conference exploring API design, security, monetization, AI integration, and platform engineering.",
     "links": { "website": "https://www.apidays.global/singapore" },
-    "logoUrl": "https://www.apidays.global/favicon.ico"
+    "logoUrl": "https://cdn.prod.website-files.com/67a0938d08d1902cd6974340/685423133b318819c046b678_Favicon%20apidays.png"
   },
   {
     "id": "iccai-2026",
@@ -637,7 +613,7 @@
     "coordinates": { "lat": 31.2304, "lng": 121.4737 },
     "description": "Summit on singularity, advanced AI, machine learning, and transformative intelligence technologies.",
     "links": { "website": "https://ml-summit.org/en" },
-    "logoUrl": "https://ml-summit.org/favicon.ico"
+    "logoUrl": ""
   },
   {
     "id": "laravel-live-japan-2026",
@@ -685,7 +661,7 @@
     "coordinates": { "lat": 34.6937, "lng": 135.5023 },
     "description": "Conference on applied machine learning, data science, AI advancements, and industry applications.",
     "links": { "website": "https://amlds.site/" },
-    "logoUrl": "https://amlds.site/favicon.ico"
+    "logoUrl": "https://amlds.site/style/images/icon.png"
   },
   {
     "id": "computex-2026",
@@ -697,7 +673,7 @@
     "coordinates": { "lat": 25.033, "lng": 121.5654 },
     "description": "World's leading ICT and hardware trade show showcasing computing, AI, IoT, and innovation.",
     "links": { "website": "https://www.computextaipei.com.tw/" },
-    "logoUrl": "https://www.computextaipei.com.tw/favicon.ico"
+    "logoUrl": "https://storage.googleapis.com/www.taiwantradeshow.com.tw/ttsShow/202401/T-37551301.png"
   },
   {
     "id": "superai-2026",
@@ -709,7 +685,7 @@
     "coordinates": { "lat": 1.3521, "lng": 103.8198 },
     "description": "Summit on superintelligent AI, frontier models, ethics, and transformative AI technologies.",
     "links": { "website": "https://www.superai.com/" },
-    "logoUrl": "https://www.superai.com/favicon.ico"
+    "logoUrl": "https://cdn.prod.website-files.com/67688698ff646acbf266a94f/6850d8e45cb09a438b19f15c_Frame%201410083193.png"
   },
   {
     "id": "tech-week-singapore-2026",
@@ -724,18 +700,6 @@
     "logoUrl": "https://www.singaporetechnologyweek.com/favicon.ico"
   },
   {
-    "id": "react-india-2026",
-    "title": "React India 2026",
-    "type": "WEB",
-    "startDate": "2026-10-29T09:00:00Z",
-    "endDate": "2026-10-31T18:00:00Z",
-    "location": { "city": "Goa", "country": "India" },
-    "coordinates": { "lat": 15.2993, "lng": 74.124 },
-    "description": "React conference with talks on React ecosystem, frontend development, performance, and modern JS.",
-    "links": { "website": "https://reactindia.dev" },
-    "logoUrl": "https://reactindia.dev/favicon.ico"
-  },
-  {
     "id": "code-blue-2026",
     "title": "CODE BLUE 2026",
     "type": "SECURITY",
@@ -745,7 +709,7 @@
     "coordinates": { "lat": 35.6762, "lng": 139.6503 },
     "description": "International cybersecurity conference with advanced research, trainings, and threat intelligence.",
     "links": { "website": "https://codeblue.jp/2026/" },
-    "logoUrl": "https://codeblue.jp/favicon.ico"
+    "logoUrl": "https://codeblue.jp/_astro/apple-touch-icon.CpG9ttrn.png"
   },
   {
     "id": "open-source-summit-japan-embedded-linux-conference-asia-2026",
@@ -795,7 +759,7 @@
     "coordinates": { "lat": 49.2827, "lng": -123.1207 },
     "description": "Conferenza tech che collega founder, investitori, leader e innovatori in startup, AI e tecnologie emergenti.",
     "links": { "website": "https://vancouver.websummit.com/" },
-    "logoUrl": "https://vancouver.websummit.com/favicon.ico"
+    "logoUrl": "https://vancouver.websummit.com/wp-media/2024/06/cropped-Favicon@1x-300x300.png"
   },
   {
     "id": "pycon-us-2026",
@@ -807,7 +771,7 @@
     "coordinates": { "lat": 33.7701, "lng": -118.1937 },
     "description": "Principale conferenza Python con tutorial, talk, sprint e eventi community su programmazione e ecosistema.",
     "links": { "website": "https://us.pycon.org/" },
-    "logoUrl": "https://us.pycon.org/favicon.ico"
+    "logoUrl": "https://us.pycon.org/2026/static/images/favicon/favicon.e49b6e6a5203.ico"
   },
   {
     "id": "vueconf-us-2026",
@@ -819,7 +783,7 @@
     "coordinates": { "lat": 33.7489, "lng": -84.388 },
     "description": "Conferenza ufficiale Vue.js negli USA con workshop, talk e approfondimenti su framework e frontend.",
     "links": { "website": "https://vueconf.us/" },
-    "logoUrl": "https://vueconf.us/favicon.ico"
+    "logoUrl": "https://vueconf.us/icon.png"
   },
   {
     "id": "cascadiajs-2026",
@@ -855,7 +819,7 @@
     "coordinates": { "lat": 37.3861, "lng": -122.0839 },
     "description": "Conferenza annuale Google per developer con keynotes su AI, Android, web, cloud e annunci prodotti.",
     "links": { "website": "https://io.google/" },
-    "logoUrl": "https://io.google/favicon.ico"
+    "logoUrl": "https://io.google/2026/assets/images/icons/favicon.ico"
   },
   {
     "id": "js-tek-2026",
@@ -903,7 +867,7 @@
     "coordinates": { "lat": -22.9068, "lng": -43.1729 },
     "description": "Conferenza tech in America Latina che collega startup, investitori e innovatori in tecnologie emergenti.",
     "links": { "website": "https://rio.websummit.com/" },
-    "logoUrl": "https://rio.websummit.com/favicon.ico"
+    "logoUrl": "https://rio.websummit.com/wp-media/2023/02/cropped-android-chrome-512x512-1-32x32.png"
   },
   {
     "id": "kubecon-cloudnativecon-north-america-2026",

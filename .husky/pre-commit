@@ -1,1 +1,2 @@
 node scripts/check-duplicate-ids.js
+node scripts/check-logo-urls.js --staged-only
