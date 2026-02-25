@@ -266,20 +266,6 @@
     "logoUrl": "https://aiconference.nl/favicon.ico"
   },
   {
-    "id": "kubecon-cloudnativecon-europe-2026",
-    "title": "KubeCon + CloudNativeCon Europe 2026",
-    "type": "CLOUD",
-    "startDate": "2026-03-23T09:00:00Z",
-    "endDate": "2026-03-26T18:00:00Z",
-    "location": { "city": "Amsterdam", "country": "Paesi Bassi" },
-    "coordinates": { "lat": 52.3676, "lng": 4.9041 },
-    "description": "Premier cloud native event on Kubernetes, open-source cloud technologies, DevOps, and ecosystem projects.",
-    "links": {
-      "website": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2026/"
-    },
-    "logoUrl": "https://events.linuxfoundation.org/favicon.ico"
-  },
-  {
     "id": "spring-io-2026",
     "title": "Spring I/O 2026",
     "type": "GENERAL",
@@ -786,42 +772,6 @@
     "logoUrl": "https://sxsw.com/favicon.ico"
   },
   {
-    "id": "nvidia-gtc-2026",
-    "title": "NVIDIA GTC 2026",
-    "type": "AI",
-    "startDate": "2026-03-16T09:00:00Z",
-    "endDate": "2026-03-19T18:00:00Z",
-    "location": { "city": "San Jose", "country": "USA" },
-    "coordinates": { "lat": 37.3382, "lng": -121.8863 },
-    "description": "GPU Technology Conference: evento chiave per AI, computing accelerato, generative AI, robotics e tool per sviluppatori.",
-    "links": { "website": "https://www.nvidia.com/gtc/" },
-    "logoUrl": "https://www.nvidia.com/favicon.ico"
-  },
-  {
-    "id": "rsa-conference-2026",
-    "title": "RSA Conference 2026",
-    "type": "SECURITY",
-    "startDate": "2026-03-23T09:00:00Z",
-    "endDate": "2026-03-26T18:00:00Z",
-    "location": { "city": "San Francisco", "country": "USA" },
-    "coordinates": { "lat": 37.7749, "lng": -122.4194 },
-    "description": "Principale conferenza sulla cybersecurity con talk su minacce, difese, compliance e tecnologie emergenti.",
-    "links": { "website": "https://www.rsaconference.com/usa" },
-    "logoUrl": "https://www.rsaconference.com/favicon.ico"
-  },
-  {
-    "id": "google-cloud-next-2026",
-    "title": "Google Cloud Next 2026",
-    "type": "CLOUD",
-    "startDate": "2026-04-22T09:00:00Z",
-    "endDate": "2026-04-24T18:00:00Z",
-    "location": { "city": "Las Vegas", "country": "USA" },
-    "coordinates": { "lat": 36.1699, "lng": -115.1398 },
-    "description": "Evento flagship di Google Cloud con keynotes su cloud computing, AI, analytics, security e tool per developer.",
-    "links": { "website": "https://cloud.google.com/next" },
-    "logoUrl": "https://cloud.google.com/favicon.ico"
-  },
-  {
     "id": "isaca-north-america-conference-2026",
     "title": "ISACA North America Conference 2026",
     "type": "SECURITY",
@@ -920,30 +870,6 @@
     "logoUrl": "https://jstek.io/favicon.ico"
   },
   {
-    "id": "black-hat-usa-2026",
-    "title": "Black Hat USA 2026",
-    "type": "SECURITY",
-    "startDate": "2026-08-01T09:00:00Z",
-    "endDate": "2026-08-06T18:00:00Z",
-    "location": { "city": "Las Vegas", "country": "USA" },
-    "coordinates": { "lat": 36.1699, "lng": -115.1398 },
-    "description": "Evento tecnico cybersecurity con training, briefings e ricerca su exploit, vulnerabilità e difese.",
-    "links": { "website": "https://www.blackhat.com/us-26" },
-    "logoUrl": "https://www.blackhat.com/favicon.ico"
-  },
-  {
-    "id": "ai4-2026",
-    "title": "Ai4 2026",
-    "type": "AI",
-    "startDate": "2026-08-04T09:00:00Z",
-    "endDate": "2026-08-06T18:00:00Z",
-    "location": { "city": "Las Vegas", "country": "USA" },
-    "coordinates": { "lat": 36.1699, "lng": -115.1398 },
-    "description": "Conferenza AI business-oriented che collega imprese, vendor e leader nelle applicazioni AI.",
-    "links": { "website": "https://ai4.io/" },
-    "logoUrl": "https://ai4.io/favicon.ico"
-  },
-  {
     "id": "wearedevelopers-world-congress-north-america-2026",
     "title": "WeAreDevelopers World Congress North America 2026",
     "type": "GENERAL",
@@ -966,18 +892,6 @@
     "description": "Summit AI su modelli frontier, etica, applicazioni e impatto industriale.",
     "links": { "website": "https://allinevent.ai/" },
     "logoUrl": "https://allinevent.ai/favicon.ico"
-  },
-  {
-    "id": "dreamforce-2026",
-    "title": "Dreamforce 2026",
-    "type": "GENERAL",
-    "startDate": "2026-09-15T09:00:00Z",
-    "endDate": "2026-09-17T18:00:00Z",
-    "location": { "city": "San Francisco", "country": "USA" },
-    "coordinates": { "lat": 37.7749, "lng": -122.4194 },
-    "description": "Evento flagship Salesforce su CRM, cloud, AI, customer experience e trasformazione business.",
-    "links": { "website": "https://www.salesforce.com/dreamforce/" },
-    "logoUrl": "https://www.salesforce.com/favicon.ico"
   },
   {
     "id": "web-summit-rio-2026",
@@ -1004,17 +918,5 @@
       "website": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/"
     },
     "logoUrl": "https://events.linuxfoundation.org/favicon.ico"
-  },
-  {
-    "id": "aws-reinvent-2026",
-    "title": "AWS re:Invent 2026",
-    "type": "CLOUD",
-    "startDate": "2026-11-30T09:00:00Z",
-    "endDate": "2026-12-04T18:00:00Z",
-    "location": { "city": "Las Vegas", "country": "USA" },
-    "coordinates": { "lat": 36.1699, "lng": -115.1398 },
-    "description": "Conferenza flagship AWS con approfondimenti su servizi cloud, AI, security e innovazione.",
-    "links": { "website": "https://reinvent.awsevents.com/" },
-    "logoUrl": "https://reinvent.awsevents.com/favicon.ico"
   }
 ]
