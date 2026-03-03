@@ -1531,5 +1531,47 @@
     },
     "logoUrl": "https://events.linuxfoundation.org/favicon.ico",
     "eventType": "conference"
+  },
+  {
+    "id": "idris-open-hackathon-2026",
+    "title": "IDRIS Open Hackathon 2026",
+    "type": "GENERAL",
+    "startDate": "2026-05-12T07:00:00Z",
+    "endDate": "2026-05-21T16:00:00Z",
+    "location": {
+      "city": "Orsay",
+      "country": "France"
+    },
+    "coordinates": {
+      "lat": 48.6997,
+      "lng": 2.1727
+    },
+    "description": "A multi-day hybrid Open Hackathon hosted by IDRIS in partnership with NVIDIA and OpenACC, pairing computational scientists with expert mentors to port and optimize scientific HPC and AI applications on GPU-accelerated architectures.",
+    "links": {
+      "website": "https://www.openhackathons.org/s/"
+    },
+    "logoUrl": "https://www.google.com/s2/favicons?domain=openhackathons.org&sz=64",
+    "eventType": "hackathon"
+  },
+  {
+    "id": "tacc-open-hackathon-2026",
+    "title": "TACC Open Hackathon 2026",
+    "type": "GENERAL",
+    "startDate": "2026-05-20T14:00:00Z",
+    "endDate": "2026-05-29T23:00:00Z",
+    "location": {
+      "city": "Austin",
+      "country": "United States"
+    },
+    "coordinates": {
+      "lat": 30.2672,
+      "lng": -97.7431
+    },
+    "description": "A multi-day hybrid Open Hackathon hosted by the Texas Advanced Computing Center (TACC) in partnership with NVIDIA and OpenACC, where teams of researchers accelerate and optimize scientific codes on modern GPU-accelerated supercomputing platforms.",
+    "links": {
+      "website": "https://www.openhackathons.org/s/"
+    },
+    "logoUrl": "https://www.google.com/s2/favicons?domain=openhackathons.org&sz=64",
+    "eventType": "hackathon"
   }
 ]
