@@ -1573,5 +1573,26 @@
     },
     "logoUrl": "https://www.google.com/s2/favicons?domain=openhackathons.org&sz=64",
     "eventType": "hackathon"
+  },
+  {
+    "id": "aws-summit-milan-2026",
+    "title": "AWS Summit Milan 2026",
+    "type": "CLOUD",
+    "startDate": "2026-05-28T09:00:00Z",
+    "endDate": "2026-05-28T18:00:00Z",
+    "location": {
+      "city": "Milan",
+      "country": "Italy"
+    },
+    "coordinates": {
+      "lat": 45.5245,
+      "lng": 9.0817
+    },
+    "description": "AWS Summit Milan is a free one-day event showcasing the latest AWS cloud innovations, featuring keynotes, technical sessions, hands-on labs, and networking opportunities focused on AI, cloud migration, serverless, security, and advanced services.",
+    "links": {
+      "website": "https://aws.amazon.com/it/events/summits/milano"
+    },
+    "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+    "eventType": "conference"
   }
 ]
