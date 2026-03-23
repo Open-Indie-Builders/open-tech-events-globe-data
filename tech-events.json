@@ -1636,5 +1636,26 @@
     },
     "logoUrl": "https://eitevents.com/wp-content/uploads/2023/01/cropped-favicon@2x-32x32.png",
     "eventType": "conference"
+  },
+  {
+    "id": "2026-construction-robotics-summit",
+    "title": "2026 Construction Robotics Summit",
+    "type": "GENERAL",
+    "startDate": "2026-04-16T00:00:00Z",
+    "endDate": "2026-04-16T23:59:59Z",
+    "location": {
+      "city": "Brooklyn",
+      "country": "United States"
+    },
+    "coordinates": {
+      "lat": 40.6782,
+      "lng": -73.9442
+    },
+    "description": "A summit at Industry City, Brooklyn focused on construction robotics technologies and innovations.",
+    "links": {
+      "website": "https://www.contech.org/events/2026-construction-robotics-summit"
+    },
+    "logoUrl": "https://cdn.prod.website-files.com/67d6f482ac7150f21a92841e/67db11735e80d36efdcb087a_contech_logo_256px.png",
+    "eventType": "conference"
   }
 ]
