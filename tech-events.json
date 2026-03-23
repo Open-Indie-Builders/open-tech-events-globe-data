@@ -1594,5 +1594,26 @@
     },
     "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
     "eventType": "conference"
+  },
+  {
+    "id": "hackmit-2026",
+    "title": "HackMIT",
+    "type": "GENERAL",
+    "startDate": "2026-09-19T00:00:00Z",
+    "endDate": "2026-09-20T23:59:59Z",
+    "location": {
+      "city": "Cambridge",
+      "country": "United States"
+    },
+    "coordinates": {
+      "lat": 42.3601,
+      "lng": -71.0589
+    },
+    "description": "One of the largest collegiate hackathons in the world organized by MIT students, welcoming thousands of university students to build creative tech projects with mentorship from industry professionals.",
+    "links": {
+      "website": "https://hackmit.org"
+    },
+    "logoUrl": "https://hackmit.org/logo.png",
+    "eventType": "hackathon"
   }
 ]
