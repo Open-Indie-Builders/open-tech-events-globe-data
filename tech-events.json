@@ -1615,5 +1615,26 @@
     },
     "logoUrl": "https://hackmit.org/logo.png",
     "eventType": "hackathon"
+  },
+  {
+    "id": "phoenix-technology-summit-2026",
+    "title": "Phoenix Technology Summit",
+    "type": "GENERAL",
+    "startDate": "2026-03-19T00:00:00Z",
+    "endDate": "2026-03-19T23:59:59Z",
+    "location": {
+      "city": "Phoenix",
+      "country": "United States"
+    },
+    "coordinates": {
+      "lat": 33.4484,
+      "lng": -112.0742
+    },
+    "description": "A summit bringing together industry experts and thought leaders to discuss emerging trends, best practices, and innovative technology solutions.",
+    "links": {
+      "website": "https://eitevents.com/event_pages/phoenix-technology-summit-2026"
+    },
+    "logoUrl": "https://eitevents.com/wp-content/uploads/2023/01/cropped-favicon@2x-32x32.png",
+    "eventType": "conference"
   }
 ]
